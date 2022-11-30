@@ -20,7 +20,7 @@
     "autoprefixer": "^10.4.2",
     "hugo-extended": "^0.94.2",
     "postcss": "^8.3.7",
-    "postcss-cli": "^9.0.2"
+    "postcss-cli": "^10.1.0"
   },
   "dependencies": {
     "PostCSS": "npm:postcss@^8.4.8"
